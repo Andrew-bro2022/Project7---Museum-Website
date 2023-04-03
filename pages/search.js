@@ -42,7 +42,7 @@ export default function AdvancedSearch(){
             setValue(prop, values[prop])
         }
 
-    });
+    }, []);
     
     //append the text for router
     async function submitForm(data){
