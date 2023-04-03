@@ -28,6 +28,7 @@ export default function Register(props){
 
   return (
     <>
+      <br />
       <Card bg="light">
         <Card.Body><h2>Register</h2>Register for an account:</Card.Body>
       </Card>
