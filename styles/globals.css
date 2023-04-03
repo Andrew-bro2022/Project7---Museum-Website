@@ -1,0 +1,6 @@
+/* this will prevent stuttering when expanding elements due to the addition / removal of the scrollbar */
+body{ overflow-y:scroll; }
+
+/* .is-invalid{
+    color: red;
+  } */
