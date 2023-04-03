@@ -7,7 +7,8 @@
  * 
  *  Name: ___Yuchi Zheng_________ Student ID: __025848151________ Date: __April 2, 2023______ 
  * 
- * Vercel App (Deployed) Link:
+ * Vercel App (Deployed) Link1: https://museum-my-app.vercel.app/
+ * Vercel App (Deployed) Link1: https://museum-my-app-git-master-andrew-bro2022.vercel.app/
  *  
  **********************************************************************************************/
 
