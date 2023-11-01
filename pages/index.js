@@ -1,14 +1,14 @@
 /*********************************************************************************************** 
- *  WEB422 – Assignment 6 
  * 
- *  I declare that this assignment is my own work in accordance with Seneca Academic Policy. 
- *  No part of this assignment has been copied manually or electronically from any other source 
- *  (including web sites) or distributed to other students. 
+ *  Author: Yuchi Zheng
+ *  Date: April 2, 2023 
+ *  Vercel App (Deployed) Link: https://museum-my-app.vercel.app/
  * 
- *  Name: ___Yuchi Zheng_________ Student ID: __025848151________ Date: __April 2, 2023______ 
- * 
- * Vercel App (Deployed) Link1: https://museum-my-app.vercel.app/
- * Vercel App (Deployed) Link1: https://museum-my-app-git-master-andrew-bro2022.vercel.app/
+ *  Introduction: - This website was designed with a modern, responsive user interface for searching 
+ *                  and viewing data on the publicly available Metropolitan Museum of Art Collection API. 
+ *                - The knowledge of React, Next.js and React Bootstrap was used to develop the solution.
+ *                - Registered users will also have the benefit of having their favourites and history lists saved, 
+ *                  so that they can return to them later and on a different device.
  *  
  **********************************************************************************************/
 
