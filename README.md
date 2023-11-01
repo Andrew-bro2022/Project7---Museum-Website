@@ -1,4 +1,4 @@
- - This website was designed with a modern, responsive user interface for searching and viewing data on the publicly available Metropolitan Museum of Art Collection API. 
+ - This website https://museum-my-app.vercel.app/ was designed with a modern, responsive user interface for searching and viewing data on the publicly available Metropolitan Museum of Art Collection API. 
  - The knowledge of React, Next.js and React Bootstrap was used to develop the solution.
  - Registered users will also have the benefit of having their favourites and history lists saved, so that they can return to them later and on a different device.
  
