@@ -3,6 +3,7 @@
  - Registered users will also have the benefit of having their favourites and history lists saved, so that they can return to them later and on a different device.
  
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![image](https://github.com/user-attachments/assets/2181b143-ca0a-461e-9e0f-b83e4afbca42)
 
 ## Getting Started
 
