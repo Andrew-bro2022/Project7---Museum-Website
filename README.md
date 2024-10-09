@@ -1,6 +1,7 @@
- - This website https://museum-my-app.vercel.app/ was designed with a modern, responsive user interface for searching and viewing data on the publicly available Metropolitan Museum of Art Collection API. 
- - The knowledge of React, Next.js and React Bootstrap was used to develop the solution.
+ - This website was designed with a modern, responsive user interface for searching and viewing data on the publicly available Metropolitan Museum of Art Collection API. 
+ - The stack of React, Node.js, Next.js, Express.js, JWT, MongoDB and React Bootstrap was used to develop the solution.
  - Registered users will also have the benefit of having their favourites and history lists saved, so that they can return to them later and on a different device.
+ - The user API code is here: https://github.com/Andrew-bro2022/Project-9-Museum_user_api/tree/master
  
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ![image](https://github.com/user-attachments/assets/2181b143-ca0a-461e-9e0f-b83e4afbca42)
